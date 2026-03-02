@@ -1,0 +1,2 @@
+cd "C:\Users\Aditya Raj Singh\OneDrive\Desktop\GSOC GAMBIT\lemke"
+python -m pytest tests/ -v
